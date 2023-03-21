@@ -5,14 +5,14 @@ Aquest és el meu **_portfoli_** sobre els meus estudis del *Cicle Superior de D
 
 Els mòduls que he fet són:
 
--M01.Sistemes Informàtics
+- M01.Sistemes Informàtics
 
--M02. Base de dades
+- M02. Base de dades
 
--M03. Programació
+- M03. Programació
 
--M04. LLenguatges de marques
+- M04. LLenguatges de marques
 
--M12. FOL
+- M12. FOL
 
--M13. EiE
+- M13. EiE
